@@ -1,0 +1,28 @@
+:root {
+  /* Colors - Updated to formal dark blue, grey, black palette */
+  --bg-primary: #0A192F;
+  --bg-secondary: #112240;
+  --text-primary: #E6F1FF;
+  --text-secondary: #8892B0;
+  --accent: #64FFDA;
+  --navy-light: #172A45;
+  --navy-shadow: rgba(2, 12, 27, 0.7);
+  --slate: #8892B0;
+  --light-slate: #A8B2D1;
+  
+  /* Typography */
+  --font-mono: 'Roboto Mono', monospace;
+  --font-sans: 'Roboto', sans-serif;
+  
+  /* Spacing */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 2rem;
+  --space-xl: 4rem;
+  
+  /* Transitions */
+  --transition-slow: 0.5s ease;
+  --transition-medium: 0.3s ease;
+  --transition-fast: 0.1s ease;
+}
